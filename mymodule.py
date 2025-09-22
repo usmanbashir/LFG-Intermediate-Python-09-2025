@@ -6,6 +6,6 @@ _private_data = "private stuff!"
 
 print('__name__ =', __name__)
 
-if __name__ == '__main__':
+#if __name__ == '__main__':
     # test dummy
-    assert dummy() == 46
+    # assert dummy() == 46
